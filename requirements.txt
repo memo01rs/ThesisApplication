@@ -1,0 +1,11 @@
+streamlit~=1.37.1
+ollama~=0.3.1
+chardet~=5.2.0
+PyPDF2~=3.0.1
+chainlit~=1.0.200
+langchain~=0.2.12
+langchain_ollama
+langchain_community
+langchain_core
+pdfplumber~=0.11.3
+openai~=1.40.2
